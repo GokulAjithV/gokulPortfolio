@@ -21,6 +21,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import angularjs from "./tech/angularjs.png";
+import sql from "./tech/sql.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -39,6 +41,7 @@ import hostel from "./hostel.png";
 
 
 export {
+  sql,
   hostel,
   proment,
   achievements,
@@ -73,4 +76,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  angularjs,
 };

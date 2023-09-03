@@ -28,6 +28,8 @@ import {
     tripguide,
     threejs,
     proment,
+    angularjs,
+    sql,
   } from "../assets";
   
 // var Linkedin = document.getElementsByClassName("linkedIn");
@@ -53,11 +55,11 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Competitive Programmer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Node.js Developer",
       icon: backend,
     },
     {
@@ -80,16 +82,16 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Angularjs",
+      icon: angularjs,
     },
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "sql",
+      icon: sql,
     },
     {
       name: "Tailwind CSS",
@@ -115,10 +117,6 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
   ];
   
   const experiences = [
@@ -142,6 +140,7 @@ import {
       date: "",
       points: [
         "Runner Up - State Level Technical Symposium held in Rajagopal Polytechnic College, Gudiyatam - Presenting the topic on ZigBee Technology.",
+        "Acquiring Merit Cum Means Scholarship for the past two years in my B.Tech",
       ],
     },
     {
